@@ -1,6 +1,6 @@
 # 💫 Hi I'm Farisya! 
 🎓 Soon-to-be gradute of Computer Science with Artificial Intelligence at the Coventry University, United Kingdom<br>
-👀 Looking for fresh graduates / internships jobs <br>
+👀 Looking for fresh graduate or internship jobs <br>
 🖥️ Currently learning backend development <br>
 🕹️ Gaming and editing videos during spare times<br>
 
